@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /carrinho$
+Disallow: /painel-do-cliente
+Disallow: /painel-do-cliente/
+Disallow: /pesquisa
+Disallow: /login
+Disallow: /listas
+Disallow: /produtos
+Disallow: /Config
+Disallow: /web-api/
+Disallow: *&cid=
+Disallow: *?bid=
+Allow: /listas/
+Allow: /produtos/
+Allow: /Content
+
+
+Sitemap: https://www.bemolfarma.com.br/sitemap/index
